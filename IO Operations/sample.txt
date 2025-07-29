@@ -1,0 +1,10 @@
+Hello World
+This is a sample text file
+Python programming is fun
+Learning file operations
+Hello Python developers
+Working with files in Python
+Reading and writing data
+File handling is important
+Python makes it easy
+Text processing with Python
