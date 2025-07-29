@@ -6,6 +6,9 @@ This repository contains Python programming assignments organized by topics, cov
 
 ```
 wipro_talentnext_assignment/
+├── Python Fundamentals/
+│   ├── exercise.py
+│   └── mini_project.py
 ├── Data Structures/
 │   ├── dictionary.py
 │   ├── list.py
@@ -34,6 +37,7 @@ wipro_talentnext_assignment/
 
 ## Topics Covered
 
+- **Python Fundamentals**: Basic programming concepts, control structures, and mini projects
 - **Data Structures**: Lists, Dictionaries, Tuples, Sets, and Strings operations
 - **Functions**: Function definitions, modules, and string utilities
 - **Command Line Arguments**: Processing command line inputs and argument handling
