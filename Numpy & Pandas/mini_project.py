@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 # Reading the CSV File
-df = pd.read_csv('datasetExample.csv')
+df = pd.read_csv('dataset/datasetExample.csv')
 print("\nLoaded DataFrame:")
 print(df.head())
 
